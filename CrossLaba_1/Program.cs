@@ -6,8 +6,6 @@ namespace CrossLaba_1
     {
         static void Main(string[] args)
         {
-            static void Main(string[] args)
-            {
                 Console.Write("Вариант №4");
                 Console.WriteLine("Tusk #1");
                 Console.Write("Введите х - длину стороны квадрата: ");
@@ -32,7 +30,6 @@ namespace CrossLaba_1
                 Console.WriteLine(Tusk3.ToString());
                 Console.ReadLine();
 
-            }
         }
     }
 }
