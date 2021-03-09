@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MyLib">
+      <HintPath>D:\__UNIVERSITY\__Кросс_Платформенне\__Лаба_1\MyLib\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
